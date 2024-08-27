@@ -1,9 +1,5 @@
 # 🌟 DankLife Studios Development 🌟
 
-<div align="center">
-  <img src="https://r2.fivemanage.com/yr6k01T2VK05Ur9qE9C19/500xthrplogonew.png" alt="Thornhaven Development Logo" width="300"/>
-</div>
-
 ## 👥 Our Team
 
 ### 🎩 Dankbubaker
@@ -24,7 +20,7 @@ A cutting-edge FiveM server built on a custom QBCore framework.
 
 <div align="center">
 
-[![Join our Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/wtJNvB3bSK)
+[![Join our Discord](https://img.shields.io/discord/1215281703120281610?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/wtJNvB3bSK)
 
 </div>
 
