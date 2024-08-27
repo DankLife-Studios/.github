@@ -24,7 +24,7 @@ A cutting-edge FiveM server built on a custom QBCore framework.
 
 <div align="center">
 
-[![Join our Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/YOUR_INVITE_LINK)
+[![Join our Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/wtJNvB3bSK)
 
 </div>
 
