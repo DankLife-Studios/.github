@@ -6,9 +6,11 @@
 
 ## 👥 Our Team
 
-### 🎩 Jbombz
+### 🎩 Dankbubaker
 **Role:** CEO & Visionary
+
 **Role:** Developer Extraordinaire
+
 **Role:** Admin Extraordinaire
 
 ## 🚀 Current Project
