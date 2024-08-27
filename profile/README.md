@@ -1,4 +1,4 @@
-# 🌟 Thornhaven Development 🌟
+# 🌟 DankLife Studios Development 🌟
 
 <div align="center">
   <img src="https://r2.fivemanage.com/yr6k01T2VK05Ur9qE9C19/500xthrplogonew.png" alt="Thornhaven Development Logo" width="300"/>
