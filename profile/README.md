@@ -34,7 +34,7 @@ A custom website built on React.
 ## 📨 Get in Touch
 
 - 📧 Email: [Mystic Haze RP](mailto:mystichazerp@proton.me)
-- 🌐 Website: [MysticHazeRP.cloud](https://mystichazerp.cloud)
+- 🌐 Website: [Mystic Haze RP](https://mystichazerp.cloud)
 - 🔗 [Join our Discord](https://img.shields.io/discord/1215281703120281610?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)
 
 ## 🤝 Join Our Community
