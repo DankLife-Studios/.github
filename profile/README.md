@@ -27,8 +27,8 @@ A cutting-edge FiveM server built on a custom QBOX framework.
 
 ## 📬 Get in Touch
 
-- 📧 Email: [mystichazerp@proton.me](mailto:mystichazerp@proton.me)
-- 🌐 Website: [https://mystichazerp.cloud](https://mystichazerp.cloud)
+- 📧 Email: [Mystic Haze Rp](mailto:mystichazerp@proton.me)
+- 🌐 Website: [MysticHazeRp.cloud](https://mystichazerp.cloud)
 - ![Join our Discord](https://img.shields.io/discord/1215281703120281610?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)
 ## 🤝 Join Our Community
 
