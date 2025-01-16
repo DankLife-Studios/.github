@@ -11,8 +11,8 @@
 
 ## 🚀 Current Project
 
-### ThorneHaven RP 2.0
-A cutting-edge FiveM server built on a custom QBCore framework.
+### Mystic Haze Rp
+A cutting-edge FiveM server built on a custom QBOX framework.
 
 - 🌆 Immersive roleplay experience
 - 🛠️ Unique custom scripts and features
@@ -27,17 +27,11 @@ A cutting-edge FiveM server built on a custom QBCore framework.
 
 ## 📬 Get in Touch
 
-- 📧 Email: [thrpfivem@yahoo.com](mailto:thrpfivem@yahoo.com)
-- 🌐 Website: [https://thornehaven.cloud](https://thornehaven.cloud)
+- 📧 Email: [mystichazerp@proton.me](mailto:mystichazerp@proton.me)
+- 🌐 Website: [https://mystichazerp.cloud](https://mystichazerp.cloud)
 - ![Join our Discord](https://img.shields.io/discord/1215281703120281610?color=%237289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)
 ## 🤝 Join Our Community
 
 We're always on the lookout for passionate developers, creators, and gamers to join our thriving community. If you're excited about pushing the boundaries of FiveM servers and creating unforgettable gaming experiences, we want to hear from you!
 
 ---
-
-<div align="center">
-
-⭐️ From [ThornhavenDevelopment](https://gitlab.com/ThornhavenDevelopment) | Crafting Virtual Worlds, One Line at a Time
-
-</div>
